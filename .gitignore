@@ -1,0 +1,5 @@
+.idea
+__pycache__
+thedaamanda-pipeline
+**/*.ipynb_checkpoints
+serving_model_dir
